@@ -6,7 +6,7 @@ export const PostCard = ({ id, title, body }) => {
       <div key={id}>
         <h3>{title}</h3>
         <p>{body}</p>
-        <Link href={`post/${id}`}>
+        <Link href="post/[id]" as={`post/${id}`}>
           <a>Read more...</a>
         </Link>
       </div>

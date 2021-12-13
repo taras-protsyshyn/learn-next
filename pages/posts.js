@@ -8,7 +8,7 @@ export default function Posts({ posts }) {
       <h1>Posts next js</h1>
       <div className="posts">
         {posts?.map(({ id, title, body }) => (
-          <PostCard key={id} title={title} body={body} />
+          <PostCard key={id} id={id} title={title} body={body} />
         ))}
       </div>
       <style jsx>{`
