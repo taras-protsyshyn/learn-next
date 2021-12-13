@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "The great topic for discuss",
+      "body": "Nulla elit ligula, feugiat eu efficitur nec, tincidunt efficitur dui. Curabitur lobortis cursus mi, sit amet fringilla quam ullamcorper eu. Pellentesque pharetra, nisi nec volutpat placerat, diam ligula ultricies quam, quis porttitor lacus sem ut neque. Morbi eu nunc magna. Mauris gravida ultricies justo, quis vehicula nibh tempor ac. Morbi congue ornare ipsum a bibendum. Ut mollis magna in nibh vulputate eleifend. Proin placerat mauris sed sollicitudin mollis. Donec quis erat erat. Nam orci mi, sollicitudin fringilla mauris eu, sodales laoreet nulla. Donec ullamcorper sem in libero posuere, vitae aliquam lectus gravida."
+    },
+    {
+      "id": 2,
+      "title": "One more a great topic for discuss",
+      "body": "Nulla elit ligula, feugiat eu efficitur nec, tincidunt efficitur dui. Curabitur lobortis cursus mi, sit amet fringilla quam ullamcorper eu. Pellentesque pharetra, nisi nec volutpat placerat, diam ligula ultricies quam, quis porttitor lacus sem ut neque. Morbi eu nunc magna. Mauris gravida ultricies justo, quis vehicula nibh tempor ac. Morbi congue ornare ipsum a bibendum. Ut mollis magna in nibh vulputate eleifend. Proin placerat mauris sed sollicitudin mollis. Donec quis erat erat. Nam orci mi, sollicitudin fringilla mauris eu, sodales laoreet nulla. Donec ullamcorper sem in libero posuere, vitae aliquam lectus gravida."
+    },
+    {
+      "id": 3,
+      "title": "About rest",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aliquam quam ullamcorper odio pharetra, nec tempor eros elementum. Sed nec gravida tortor. Etiam ultrices dignissim pharetra. Mauris molestie tortor nec luctus cursus. Integer scelerisque lacus vitae purus auctor, non dapibus orci cursus. Proin nec eleifend orci."
+    }
+  ],
+  "about": {
+    "title": "About page"
+  }
+}
